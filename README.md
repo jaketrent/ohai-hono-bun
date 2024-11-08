@@ -1,11 +1,20 @@
-To install dependencies:
+## Install
+
 ```sh
+asdf install
 bun install
 ```
 
-To run:
+## Run
+
 ```sh
 bun run dev
+xdg-open http://localhost:3001
 ```
 
-open http://localhost:3000
+## Test
+
+```sh
+bun test
+```
+
